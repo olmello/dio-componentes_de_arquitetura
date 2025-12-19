@@ -34,13 +34,13 @@ Criei o meu grupo de recursos em EAST US, a título de experimentação, pois ir
 
 # Links Úteis
 Documentação Oficial Microsoft
-[Visão geral da arquitetura do Azure](https://learn.microsoft.com/pt-br/azure/architecture/guide/)
-[Pares de região do Azure](https://learn.microsoft.com/pt-br/azure/reliability/regions-paired)
-[Grupos de gerenciamento do Azure](https://learn.microsoft.com/pt-br/azure/governance/management-groups/overview)
-[Grupos de recursos do Azure](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/manage-resource-groups-portal)
+
+- [Visão geral da arquitetura do Azure](https://learn.microsoft.com/pt-br/azure/architecture/guide/)
+- [Pares de região do Azure](https://learn.microsoft.com/pt-br/azure/reliability/regions-paired)
+- [Grupos de gerenciamento do Azure](https://learn.microsoft.com/pt-br/azure/governance/management-groups/overview)
+- [Grupos de recursos do Azure](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/manage-resource-groups-portal)
 
 Ferramentas e Recursos
-[Calculadora de preços do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
-[Centro de Arquitetura do Azure](https://learn.microsoft.com/pt-br/azure/architecture/)
-[Introdução à Infraestrutura de Nuvem: Descrever conceitos de nuvem](https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
-Microsoft Learn - Azure Fundamentals
+- [Calculadora de preços do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
+- [Centro de Arquitetura do Azure](https://learn.microsoft.com/pt-br/azure/architecture/)
+- [Introdução à Infraestrutura de Nuvem: Descrever conceitos de nuvem](https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
